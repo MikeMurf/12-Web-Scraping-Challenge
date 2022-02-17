@@ -39,6 +39,7 @@ The files can be run from this directory.
 #### Author:   Mike Murphy
  
 #### Screenshot 1 – Initial Rendering of Basic Mars Outline Information
+* ![image](https://user-images.githubusercontent.com/89948865/154556475-9c15056b-dabb-4980-86fe-34b4c8e32550.png)
  
  
 #### Screenshot 2 – Top Section of Web Page After Scraping
