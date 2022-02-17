@@ -43,15 +43,19 @@ The files can be run from this directory.
  
  
 #### Screenshot 2 – Top Section of Web Page After Scraping
- 
+*  ![image](https://user-images.githubusercontent.com/89948865/154556710-320e798b-4a63-4e7b-bd87-743687e2224a.png)
+
  
 #### Screenshot 3 – Middle Section of Web Page After Scraping
+* ![image](https://user-images.githubusercontent.com/89948865/154556798-011a048f-1363-4b25-a8e5-319ccd559241.png)
  
  
 #### Screenshot 4 – Bottom Section of Web Page After Scraping
+* ![image](https://user-images.githubusercontent.com/89948865/154556880-624792aa-4cf1-4eb4-89fc-5a384d479b88.png)
  
  
 #### Screenshot 5 –Responsive Web Page After Scraping
+* ![image](https://user-images.githubusercontent.com/89948865/154556943-6cc051c6-1973-491b-bbf2-ef5ed9a0b0b0.png)
  
 
 
